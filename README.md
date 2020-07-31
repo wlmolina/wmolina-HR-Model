@@ -1,5 +1,5 @@
 # HR Model
-By William Molina
+By William Molina</p>
 HR Compensation Strategy Model
 
 Files included:
